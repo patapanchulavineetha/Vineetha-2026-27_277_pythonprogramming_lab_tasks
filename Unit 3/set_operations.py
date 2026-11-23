@@ -1,1 +1,12 @@
+# Create two sets
+A = {10, 20, 30, 40}
+B = {30, 40, 50, 60}
 
+# Union
+print("Union:", A.union(B))
+
+# Intersection
+print("Intersection:", A.intersection(B))
+
+# Difference
+print("Difference:", A.difference(B))
